@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "ShantellSans";
+    src: url(../fonts/ShantellSans-VariableFont_BNCE,INFM,SPAC,wght.ttf);
+}
+
+html {
+    font-size: 10px;
+    font-family: "ShantellSans";
+    background-color: #9da7d6;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #258b3c;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #5c26a3;
+    text-shadow: 6px 6px 5px #202020;
+    font-size: 60px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+    height: 490px;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
